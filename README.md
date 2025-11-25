@@ -13,7 +13,7 @@
 <details>
   <summary>프로젝트 기획서</summary>
 
-  - [프로젝트 기획서](./docs/CookUs_프로젝트기획서.pdf)
+  - [프로젝트 기획서]([./docs/CookUs_프로젝트기획서.pdf](https://github.com/minsangggg/CookUs_docs/blob/main/CookUs_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf))
 
 </details>
 
