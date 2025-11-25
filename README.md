@@ -13,7 +13,7 @@
 <details>
   <summary>프로젝트 기획서</summary>
 
-  - [프로젝트 기획서](./CookUs_프로젝트기획서.pdf)
+  - [프로젝트 기획서](./CookUs_프로젝트 기획서.pdf)
 
 </details>
 
