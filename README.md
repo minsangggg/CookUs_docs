@@ -124,13 +124,4 @@ Data/Analytics (Dashboard)
 
 </details>
 
------------------------------------------
 
-# 최종 보고서
-
-<details>
-  <summary>최종발표자료</summary>
-
-  - [최종발표자료](./docs/CookUs_최종발표자료.pdf)
-
-</details>
