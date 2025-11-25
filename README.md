@@ -120,7 +120,7 @@ Data/Analytics (Dashboard)
 <details>
   <summary>성능 평가 결과 보고서</summary>
 
-  - [성능 평가 결과 보고서](./CookUs_성능평가결과보고서.pdf)
+  - [성능평가 결과 보고서](./CookUs_성능평가결과보고서.pdf)
 
 </details>
 
