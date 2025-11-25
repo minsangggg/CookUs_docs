@@ -97,7 +97,7 @@ Data/Analytics (Dashboard)
 <details>
   <summary>요구사항 정의서</summary>
 
-  - [요구사항 정의서](./docs/CookUs_요구사항정의서.pdf)
+  - [요구사항 정의서](./CookUs_요구사항정의서.pdf)
 
 </details>
 
@@ -108,7 +108,7 @@ Data/Analytics (Dashboard)
 <details>
   <summary>WBS</summary>
 
-  - [WBS](./docs/CookUs_WBS.pdf)
+  - [WBS](./CookUs_WBS.pdf)
 
 </details>
 
@@ -120,7 +120,7 @@ Data/Analytics (Dashboard)
 <details>
   <summary>성능 평가 결과 보고서</summary>
 
-  - [성능 평가 결과 보고서](./docs/CookUs_성능평가결과보고서.pdf)
+  - [성능 평가 결과 보고서](./CookUs_성능평가결과보고서.pdf)
 
 </details>
 
