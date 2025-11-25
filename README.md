@@ -118,7 +118,7 @@ Data/Analytics (Dashboard)
 # 성능 평가 결과 보고서
 
 <details>
-  <summary>성능 평가 결과 보고서</summary>
+  <summary>성능평가 결과 보고서</summary>
 
   - [성능평가 결과 보고서](./CookUs_성능평가결과보고서.pdf)
 
