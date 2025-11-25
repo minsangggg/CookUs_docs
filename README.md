@@ -8,12 +8,12 @@
 | PM · Frontend | 데이터 분석가 · DB | 기획 · Backend | 데이터 엔지니어 · DB |
 
 
-# 프로젝트 계획서
+# 프로젝트 기획서
 
 <details>
-  <summary>프로젝트 계획서</summary>
+  <summary>프로젝트 기획서</summary>
 
-  - [프로젝트 계획서](./docs/CookUs_프로젝트계획서.pdf)
+  - [프로젝트 기획서](./docs/CookUs_프로젝트기획서.pdf)
 
 </details>
 
